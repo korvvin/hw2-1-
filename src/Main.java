@@ -3,9 +3,9 @@ public class Main {
         var dog = 8;
         var cat = 3.6;
         var paper = 763789;
-        dog+=2;
-        cat+=2;
-        paper+=2;
+        dog-=3.5;
+        cat-=1.6;
+        paper-=7639;
         System.out.println(dog);
         System.out.println(cat);
         System.out.println(paper);
